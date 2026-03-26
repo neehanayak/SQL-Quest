@@ -1,4 +1,4 @@
-# SQL 50 with Pandas 
+# SQL Quest with Pandas 
 
 A collection of **LeetCode SQL Quest problems** solved using both **SQL** and **Pandas**, demonstrating strong data querying and transformation skills.
 
